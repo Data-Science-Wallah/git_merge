@@ -1,1 +1,1 @@
-# this is the demo for merging in git main branch
+# this is the demo for merging in git
